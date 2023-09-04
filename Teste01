@@ -1,0 +1,15 @@
+Package exemplos;
+import java.util.Scanner;
+public class Conversao{
+  public static float cels;
+  public static float fahr;
+
+  public static void mai(String[] args){
+    Scanner in = new Scanner(System.in);
+    System.out.println{"Digite a temperatura em zero Graus: "};
+    cels = in.next.Float();
+    fahr = 1.8f * cels + 32;
+    System.out.print{"Temperatura em graus Fahrenheit: "};
+    System.out.println{fahr};
+  }
+}
