@@ -1,4 +1,4 @@
-package livro.modelo;
+package livro.controle;
 
 import livro.modelo.DataSimples;
 
